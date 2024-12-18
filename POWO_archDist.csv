@@ -1,0 +1,769 @@
+"","X","taxon_name","area_code_l3","introduced","extinct","location_doubtful"
+"1",203060,"Spiranthes aestivalis","GRB",0,1,0
+"2",203061,"Spiranthes aestivalis","AUT",0,0,0
+"3",203062,"Spiranthes aestivalis","BGM",0,1,0
+"4",203063,"Spiranthes aestivalis","CZE",0,0,0
+"5",203064,"Spiranthes aestivalis","GER",0,0,0
+"6",203065,"Spiranthes aestivalis","HUN",0,0,0
+"7",203066,"Spiranthes aestivalis","NET",0,1,0
+"8",203067,"Spiranthes aestivalis","SWI",0,0,0
+"9",203068,"Spiranthes aestivalis","COR",0,0,0
+"10",203069,"Spiranthes aestivalis","FRA",0,0,0
+"11",203070,"Spiranthes aestivalis","POR",0,0,0
+"12",203071,"Spiranthes aestivalis","SAR",0,0,0
+"13",203072,"Spiranthes aestivalis","SPA",0,0,0
+"14",203073,"Spiranthes aestivalis","GRC",0,0,1
+"15",203074,"Spiranthes aestivalis","ITA",0,0,0
+"16",203075,"Spiranthes aestivalis","YUG",0,0,0
+"17",203076,"Spiranthes aestivalis","ALG",0,0,0
+"18",203077,"Spiranthes aestivalis","MOR",0,0,0
+"19",203078,"Spiranthes aestivalis","TUN",0,0,0
+"20",203079,"Spiranthes australis","RUE",0,0,0
+"21",203080,"Spiranthes australis","ALT",0,0,0
+"22",203081,"Spiranthes australis","BRY",0,0,0
+"23",203082,"Spiranthes australis","CTA",0,0,0
+"24",203083,"Spiranthes australis","IRK",0,0,0
+"25",203084,"Spiranthes australis","KRA",0,0,0
+"26",203085,"Spiranthes australis","TVA",0,0,0
+"27",203086,"Spiranthes australis","WSB",0,0,0
+"28",203087,"Spiranthes australis","YAK",0,0,0
+"29",203088,"Spiranthes australis","AMU",0,0,0
+"30",203089,"Spiranthes australis","KHA",0,0,0
+"31",203090,"Spiranthes australis","KUR",0,0,0
+"32",203091,"Spiranthes australis","PRM",0,0,0
+"33",203092,"Spiranthes australis","SAK",0,0,0
+"34",203093,"Spiranthes australis","TCS",0,0,0
+"35",203094,"Spiranthes australis","AFG",0,0,0
+"36",203095,"Spiranthes australis","IRN",0,0,0
+"37",203096,"Spiranthes australis","IRQ",0,0,0
+"38",203097,"Spiranthes australis","CHC",0,0,0
+"39",203098,"Spiranthes australis","CHH",0,0,0
+"40",203099,"Spiranthes australis","CHI",0,0,0
+"41",203100,"Spiranthes australis","CHM",0,0,0
+"42",203101,"Spiranthes australis","CHN",0,0,0
+"43",203102,"Spiranthes australis","CHQ",0,0,0
+"44",203103,"Spiranthes australis","CHS",0,0,0
+"45",203104,"Spiranthes australis","CHT",0,0,0
+"46",203105,"Spiranthes australis","CHX",0,0,0
+"47",203106,"Spiranthes australis","MON",0,0,0
+"48",203107,"Spiranthes australis","JAP",0,0,0
+"49",203108,"Spiranthes australis","KOR",0,0,0
+"50",203109,"Spiranthes australis","NNS",0,0,0
+"51",203110,"Spiranthes australis","TAI",0,0,0
+"52",203111,"Spiranthes australis","ASS",0,0,0
+"53",203112,"Spiranthes australis","BAN",0,0,0
+"54",203113,"Spiranthes australis","EHM",0,0,0
+"55",203114,"Spiranthes australis","IND",0,0,0
+"56",203115,"Spiranthes australis","NEP",0,0,0
+"57",203116,"Spiranthes australis","PAK",0,0,0
+"58",203117,"Spiranthes australis","SRL",0,0,0
+"59",203118,"Spiranthes australis","WHM",0,0,0
+"60",203119,"Spiranthes australis","MYA",0,0,0
+"61",203120,"Spiranthes australis","THA",0,0,0
+"62",203121,"Spiranthes australis","VIE",0,0,0
+"63",203122,"Spiranthes australis","BOR",0,0,0
+"64",203123,"Spiranthes australis","JAW",0,0,0
+"65",203124,"Spiranthes australis","LSI",0,0,0
+"66",203125,"Spiranthes australis","MLY",0,0,0
+"67",203126,"Spiranthes australis","MOL",0,0,0
+"68",203127,"Spiranthes australis","PHI",0,0,0
+"69",203128,"Spiranthes australis","SUL",0,0,0
+"70",203129,"Spiranthes australis","SUM",0,0,0
+"71",203130,"Spiranthes australis","NWG",0,0,0
+"72",203131,"Spiranthes australis","SOL",0,0,0
+"73",203132,"Spiranthes australis","NSW",0,0,0
+"74",203133,"Spiranthes australis","QLD",0,0,0
+"75",203134,"Spiranthes australis","SOA",0,0,0
+"76",203135,"Spiranthes australis","TAS",0,0,0
+"77",203136,"Spiranthes australis","VIC",0,0,0
+"78",203137,"Spiranthes australis","CTM",0,0,0
+"79",203138,"Spiranthes australis","NZN",0,0,0
+"80",203139,"Spiranthes australis","NZS",0,0,0
+"81",203140,"Spiranthes australis","NUE",0,0,0
+"82",203141,"Spiranthes australis","NWC",0,0,0
+"83",203142,"Spiranthes australis","SAM",0,0,0
+"84",203143,"Spiranthes australis","TON",0,0,0
+"85",203144,"Spiranthes australis","VAN",0,0,0
+"86",203145,"Spiranthes brevilabris","TEX",0,0,0
+"87",203146,"Spiranthes brevilabris","ALA",0,0,0
+"88",203147,"Spiranthes brevilabris","FLA",0,0,0
+"89",203148,"Spiranthes brevilabris","GEO",0,0,0
+"90",203149,"Spiranthes brevilabris","LOU",0,0,0
+"91",203150,"Spiranthes brevilabris","MSI",0,0,0
+"92",203151,"Spiranthes brevilabris","NCA",0,0,0
+"93",203152,"Spiranthes brevilabris","SCA",0,0,0
+"94",203153,"Spiranthes brevilabris var. brevilabris","TEX",0,0,0
+"95",203154,"Spiranthes brevilabris var. brevilabris","ALA",0,0,0
+"96",203155,"Spiranthes brevilabris var. brevilabris","FLA",0,0,0
+"97",203156,"Spiranthes brevilabris var. brevilabris","GEO",0,0,0
+"98",203157,"Spiranthes brevilabris var. brevilabris","LOU",0,0,0
+"99",203158,"Spiranthes brevilabris var. brevilabris","MSI",0,0,0
+"100",203159,"Spiranthes brevilabris var. floridana","TEX",0,0,0
+"101",203160,"Spiranthes brevilabris var. floridana","ALA",0,0,0
+"102",203161,"Spiranthes brevilabris var. floridana","FLA",0,0,0
+"103",203162,"Spiranthes brevilabris var. floridana","GEO",0,0,0
+"104",203163,"Spiranthes brevilabris var. floridana","LOU",0,0,0
+"105",203164,"Spiranthes brevilabris var. floridana","MSI",0,0,0
+"106",203165,"Spiranthes brevilabris var. floridana","NCA",0,0,0
+"107",203166,"Spiranthes brevilabris var. floridana","SCA",0,0,0
+"108",203167,"Spiranthes casei","NSC",0,0,0
+"109",203168,"Spiranthes casei","ONT",0,0,0
+"110",203169,"Spiranthes casei","QUE",0,0,0
+"111",203170,"Spiranthes casei","MIN",0,0,0
+"112",203171,"Spiranthes casei","WIS",0,0,0
+"113",203172,"Spiranthes casei","MAI",0,0,0
+"114",203173,"Spiranthes casei","MIC",0,0,0
+"115",203174,"Spiranthes casei","NWH",0,0,0
+"116",203175,"Spiranthes casei","NWY",0,0,0
+"117",203176,"Spiranthes casei","PEN",0,0,0
+"118",203177,"Spiranthes casei","VER",0,0,0
+"119",203178,"Spiranthes casei var. casei","NSC",0,0,0
+"120",203179,"Spiranthes casei var. casei","ONT",0,0,0
+"121",203180,"Spiranthes casei var. casei","QUE",0,0,0
+"122",203181,"Spiranthes casei var. casei","MIN",0,0,0
+"123",203182,"Spiranthes casei var. casei","WIS",0,0,0
+"124",203183,"Spiranthes casei var. casei","MAI",0,0,0
+"125",203184,"Spiranthes casei var. casei","MIC",0,0,0
+"126",203185,"Spiranthes casei var. casei","NWH",0,0,0
+"127",203186,"Spiranthes casei var. casei","NWY",0,0,0
+"128",203187,"Spiranthes casei var. casei","PEN",0,0,0
+"129",203188,"Spiranthes casei var. casei","VER",0,0,0
+"130",203189,"Spiranthes casei var. novaescotiae","NSC",0,0,0
+"131",203190,"Spiranthes cernua","NBR",0,0,0
+"132",203191,"Spiranthes cernua","NSC",0,0,0
+"133",203192,"Spiranthes cernua","PEI",0,0,0
+"134",203193,"Spiranthes cernua","ILL",0,0,0
+"135",203194,"Spiranthes cernua","MIN",0,0,0
+"136",203195,"Spiranthes cernua","MSO",0,0,0
+"137",203196,"Spiranthes cernua","OKL",0,0,0
+"138",203197,"Spiranthes cernua","CNT",0,0,0
+"139",203198,"Spiranthes cernua","MAI",0,0,0
+"140",203199,"Spiranthes cernua","MAS",0,0,0
+"141",203200,"Spiranthes cernua","NWH",0,0,0
+"142",203201,"Spiranthes cernua","NWJ",0,0,0
+"143",203202,"Spiranthes cernua","NWY",0,0,0
+"144",203203,"Spiranthes cernua","OHI",0,0,0
+"145",203204,"Spiranthes cernua","PEN",0,0,0
+"146",203205,"Spiranthes cernua","RHO",0,0,0
+"147",203206,"Spiranthes cernua","VER",0,0,0
+"148",203207,"Spiranthes cernua","WVA",0,0,0
+"149",203208,"Spiranthes cernua","TEX",0,0,0
+"150",203209,"Spiranthes cernua","ALA",0,0,0
+"151",203210,"Spiranthes cernua","ARK",0,0,0
+"152",203211,"Spiranthes cernua","FLA",0,0,0
+"153",203212,"Spiranthes cernua","GEO",0,0,0
+"154",203213,"Spiranthes cernua","KTY",0,0,0
+"155",203214,"Spiranthes cernua","LOU",0,0,0
+"156",203215,"Spiranthes cernua","MRY",0,0,0
+"157",203216,"Spiranthes cernua","MSI",0,0,0
+"158",203217,"Spiranthes cernua","NCA",0,0,0
+"159",203218,"Spiranthes cernua","SCA",0,0,0
+"160",203219,"Spiranthes cernua","TEN",0,0,0
+"161",203220,"Spiranthes cernua","VRG",0,0,0
+"162",203221,"Spiranthes delitescens","ARI",0,0,0
+"163",203222,"Spiranthes diluvialis","COL",0,0,0
+"164",203223,"Spiranthes diluvialis","IDA",0,0,0
+"165",203224,"Spiranthes diluvialis","MNT",0,0,0
+"166",203225,"Spiranthes diluvialis","WAS",0,0,0
+"167",203226,"Spiranthes diluvialis","WYO",0,0,0
+"168",203227,"Spiranthes diluvialis","NEB",0,0,0
+"169",203228,"Spiranthes diluvialis","NEV",0,0,0
+"170",203229,"Spiranthes diluvialis","UTA",0,0,0
+"171",203230,"Spiranthes flexuosa","AFG",0,0,0
+"172",203231,"Spiranthes flexuosa","CHC",0,0,0
+"173",203232,"Spiranthes flexuosa","CHS",0,0,0
+"174",203233,"Spiranthes flexuosa","JAP",0,0,0
+"175",203234,"Spiranthes flexuosa","NNS",0,0,0
+"176",203235,"Spiranthes flexuosa","TAI",0,0,0
+"177",203236,"Spiranthes flexuosa","ASS",0,0,0
+"178",203237,"Spiranthes flexuosa","EHM",0,0,0
+"179",203238,"Spiranthes flexuosa","IND",0,0,0
+"180",203239,"Spiranthes flexuosa","NEP",0,0,0
+"181",203240,"Spiranthes flexuosa","SRL",0,0,0
+"182",203241,"Spiranthes flexuosa","WHM",0,0,0
+"183",203242,"Spiranthes flexuosa","MYA",0,0,0
+"184",203243,"Spiranthes flexuosa","THA",0,0,0
+"185",203244,"Spiranthes flexuosa","VIE",0,0,0
+"186",203245,"Spiranthes flexuosa","BOR",0,0,0
+"187",203246,"Spiranthes flexuosa","JAW",0,0,0
+"188",203247,"Spiranthes flexuosa","MLY",0,0,0
+"189",203248,"Spiranthes flexuosa","SUM",0,0,0
+"190",203249,"Spiranthes graminea","MXC",0,0,0
+"191",203250,"Spiranthes graminea","MXE",0,0,0
+"192",203251,"Spiranthes graminea","MXS",0,0,0
+"193",203252,"Spiranthes graminea","HON",0,0,0
+"194",203253,"Spiranthes graminea","NIC",0,0,0
+"195",203254,"Spiranthes × hongkongensis","CHS",0,0,0
+"196",203255,"Spiranthes × hongkongensis","NNS",0,0,0
+"197",203256,"Spiranthes × hongkongensis","TAI",0,0,0
+"198",203257,"Spiranthes × hongkongensis","BOR",0,0,0
+"199",203258,"Spiranthes infernalis","NEV",0,0,0
+"200",203259,"Spiranthes × intermedia","ONT",0,0,0
+"201",203260,"Spiranthes × intermedia","QUE",0,0,0
+"202",203261,"Spiranthes × intermedia","MAI",0,0,0
+"203",203262,"Spiranthes × intermedia","MAS",0,0,0
+"204",203263,"Spiranthes × intermedia","MIC",0,0,0
+"205",203264,"Spiranthes × intermedia","NWH",0,0,0
+"206",203265,"Spiranthes × intermedia","VER",0,0,0
+"207",203266,"Spiranthes lacera","ABT",0,0,0
+"208",203267,"Spiranthes lacera","MAN",0,0,0
+"209",203268,"Spiranthes lacera","SAS",0,0,0
+"210",203269,"Spiranthes lacera","NBR",0,0,0
+"211",203270,"Spiranthes lacera","NSC",0,0,0
+"212",203271,"Spiranthes lacera","ONT",0,0,0
+"213",203272,"Spiranthes lacera","PEI",0,0,0
+"214",203273,"Spiranthes lacera","QUE",0,0,0
+"215",203274,"Spiranthes lacera","ILL",0,0,0
+"216",203275,"Spiranthes lacera","IOW",0,0,0
+"217",203276,"Spiranthes lacera","KAN",0,0,0
+"218",203277,"Spiranthes lacera","MIN",0,0,0
+"219",203278,"Spiranthes lacera","MSO",0,0,0
+"220",203279,"Spiranthes lacera","OKL",0,0,0
+"221",203280,"Spiranthes lacera","WIS",0,0,0
+"222",203281,"Spiranthes lacera","CNT",0,0,0
+"223",203282,"Spiranthes lacera","INI",0,0,0
+"224",203283,"Spiranthes lacera","MAI",0,0,0
+"225",203284,"Spiranthes lacera","MAS",0,0,0
+"226",203285,"Spiranthes lacera","MIC",0,0,0
+"227",203286,"Spiranthes lacera","NWH",0,0,0
+"228",203287,"Spiranthes lacera","NWJ",0,0,0
+"229",203288,"Spiranthes lacera","NWY",0,0,0
+"230",203289,"Spiranthes lacera","OHI",0,0,0
+"231",203290,"Spiranthes lacera","PEN",0,0,0
+"232",203291,"Spiranthes lacera","RHO",0,0,0
+"233",203292,"Spiranthes lacera","VER",0,0,0
+"234",203293,"Spiranthes lacera","WVA",0,0,0
+"235",203294,"Spiranthes lacera","TEX",0,0,0
+"236",203295,"Spiranthes lacera","ALA",0,0,0
+"237",203296,"Spiranthes lacera","ARK",0,0,0
+"238",203297,"Spiranthes lacera","DEL",0,0,0
+"239",203298,"Spiranthes lacera","FLA",0,0,0
+"240",203299,"Spiranthes lacera","GEO",0,0,0
+"241",203300,"Spiranthes lacera","KTY",0,0,0
+"242",203301,"Spiranthes lacera","LOU",0,0,0
+"243",203302,"Spiranthes lacera","MRY",0,0,0
+"244",203303,"Spiranthes lacera","MSI",0,0,0
+"245",203304,"Spiranthes lacera","NCA",0,0,0
+"246",203305,"Spiranthes lacera","SCA",0,0,0
+"247",203306,"Spiranthes lacera","TEN",0,0,0
+"248",203307,"Spiranthes lacera","VRG",0,0,0
+"249",203308,"Spiranthes lacera","WDC",0,0,0
+"250",203309,"Spiranthes lacera var. gracilis","NSC",0,0,0
+"251",203310,"Spiranthes lacera var. gracilis","ONT",0,0,0
+"252",203311,"Spiranthes lacera var. gracilis","ILL",0,0,0
+"253",203312,"Spiranthes lacera var. gracilis","IOW",0,0,0
+"254",203313,"Spiranthes lacera var. gracilis","KAN",0,0,0
+"255",203314,"Spiranthes lacera var. gracilis","MIN",0,0,0
+"256",203315,"Spiranthes lacera var. gracilis","MSO",0,0,0
+"257",203316,"Spiranthes lacera var. gracilis","OKL",0,0,0
+"258",203317,"Spiranthes lacera var. gracilis","WIS",0,0,0
+"259",203318,"Spiranthes lacera var. gracilis","CNT",0,0,0
+"260",203319,"Spiranthes lacera var. gracilis","INI",0,0,0
+"261",203320,"Spiranthes lacera var. gracilis","MAI",0,0,0
+"262",203321,"Spiranthes lacera var. gracilis","MAS",0,0,0
+"263",203322,"Spiranthes lacera var. gracilis","MIC",0,0,0
+"264",203323,"Spiranthes lacera var. gracilis","NWH",0,0,0
+"265",203324,"Spiranthes lacera var. gracilis","NWJ",0,0,0
+"266",203325,"Spiranthes lacera var. gracilis","NWY",0,0,0
+"267",203326,"Spiranthes lacera var. gracilis","OHI",0,0,0
+"268",203327,"Spiranthes lacera var. gracilis","PEN",0,0,0
+"269",203328,"Spiranthes lacera var. gracilis","RHO",0,0,0
+"270",203329,"Spiranthes lacera var. gracilis","VER",0,0,0
+"271",203330,"Spiranthes lacera var. gracilis","WVA",0,0,0
+"272",203331,"Spiranthes lacera var. gracilis","TEX",0,0,0
+"273",203332,"Spiranthes lacera var. gracilis","ALA",0,0,0
+"274",203333,"Spiranthes lacera var. gracilis","ARK",0,0,0
+"275",203334,"Spiranthes lacera var. gracilis","DEL",0,0,0
+"276",203335,"Spiranthes lacera var. gracilis","FLA",0,0,0
+"277",203336,"Spiranthes lacera var. gracilis","GEO",0,0,0
+"278",203337,"Spiranthes lacera var. gracilis","KTY",0,0,0
+"279",203338,"Spiranthes lacera var. gracilis","LOU",0,0,0
+"280",203339,"Spiranthes lacera var. gracilis","MRY",0,0,0
+"281",203340,"Spiranthes lacera var. gracilis","MSI",0,0,0
+"282",203341,"Spiranthes lacera var. gracilis","NCA",0,0,0
+"283",203342,"Spiranthes lacera var. gracilis","SCA",0,0,0
+"284",203343,"Spiranthes lacera var. gracilis","TEN",0,0,0
+"285",203344,"Spiranthes lacera var. gracilis","VRG",0,0,0
+"286",203345,"Spiranthes lacera var. gracilis","WDC",0,0,0
+"287",203346,"Spiranthes lacera var. lacera","ABT",0,0,0
+"288",203347,"Spiranthes lacera var. lacera","MAN",0,0,0
+"289",203348,"Spiranthes lacera var. lacera","SAS",0,0,0
+"290",203349,"Spiranthes lacera var. lacera","NBR",0,0,0
+"291",203350,"Spiranthes lacera var. lacera","NSC",0,0,0
+"292",203351,"Spiranthes lacera var. lacera","ONT",0,0,0
+"293",203352,"Spiranthes lacera var. lacera","PEI",0,0,0
+"294",203353,"Spiranthes lacera var. lacera","QUE",0,0,0
+"295",203354,"Spiranthes lacera var. lacera","ILL",0,0,0
+"296",203355,"Spiranthes lacera var. lacera","IOW",0,0,0
+"297",203356,"Spiranthes lacera var. lacera","KAN",0,0,0
+"298",203357,"Spiranthes lacera var. lacera","MIN",0,0,0
+"299",203358,"Spiranthes lacera var. lacera","MSO",0,0,0
+"300",203359,"Spiranthes lacera var. lacera","WIS",0,0,0
+"301",203360,"Spiranthes lacera var. lacera","CNT",0,0,0
+"302",203361,"Spiranthes lacera var. lacera","INI",0,0,0
+"303",203362,"Spiranthes lacera var. lacera","MAI",0,0,0
+"304",203363,"Spiranthes lacera var. lacera","MAS",0,0,0
+"305",203364,"Spiranthes lacera var. lacera","MIC",0,0,0
+"306",203365,"Spiranthes lacera var. lacera","NWH",0,0,0
+"307",203366,"Spiranthes lacera var. lacera","NWJ",0,0,0
+"308",203367,"Spiranthes lacera var. lacera","NWY",0,0,0
+"309",203368,"Spiranthes lacera var. lacera","OHI",0,0,0
+"310",203369,"Spiranthes lacera var. lacera","PEN",0,0,0
+"311",203370,"Spiranthes lacera var. lacera","RHO",0,0,0
+"312",203371,"Spiranthes lacera var. lacera","VER",0,0,0
+"313",203372,"Spiranthes lacera var. lacera","WVA",0,0,0
+"314",203373,"Spiranthes lacera var. lacera","ARK",0,0,0
+"315",203374,"Spiranthes lacera var. lacera","KTY",0,0,0
+"316",203375,"Spiranthes lacera var. lacera","MRY",0,0,0
+"317",203376,"Spiranthes lacera var. lacera","NCA",0,0,0
+"318",203377,"Spiranthes lacera var. lacera","TEN",0,0,0
+"319",203378,"Spiranthes lacera var. lacera","VRG",0,0,0
+"320",203379,"Spiranthes laciniata","NWJ",0,0,0
+"321",203380,"Spiranthes laciniata","TEX",0,0,0
+"322",203381,"Spiranthes laciniata","ALA",0,0,0
+"323",203382,"Spiranthes laciniata","DEL",0,0,0
+"324",203383,"Spiranthes laciniata","FLA",0,0,0
+"325",203384,"Spiranthes laciniata","GEO",0,0,0
+"326",203385,"Spiranthes laciniata","LOU",0,0,0
+"327",203386,"Spiranthes laciniata","MRY",0,0,0
+"328",203387,"Spiranthes laciniata","MSI",0,0,0
+"329",203388,"Spiranthes laciniata","NCA",0,0,0
+"330",203389,"Spiranthes laciniata","SCA",0,0,0
+"331",203390,"Spiranthes laciniata","VRG",0,0,0
+"332",203391,"Spiranthes longilabris","TEX",0,0,0
+"333",203392,"Spiranthes longilabris","ALA",0,0,0
+"334",203393,"Spiranthes longilabris","FLA",0,0,0
+"335",203394,"Spiranthes longilabris","GEO",0,0,0
+"336",203395,"Spiranthes longilabris","LOU",0,0,0
+"337",203396,"Spiranthes longilabris","MSI",0,0,0
+"338",203397,"Spiranthes longilabris","NCA",0,0,0
+"339",203398,"Spiranthes longilabris","SCA",0,0,0
+"340",203399,"Spiranthes longilabris","VRG",0,0,0
+"341",203400,"Spiranthes lucida","NBR",0,0,0
+"342",203401,"Spiranthes lucida","NSC",0,0,0
+"343",203402,"Spiranthes lucida","ONT",0,0,0
+"344",203403,"Spiranthes lucida","QUE",0,0,0
+"345",203404,"Spiranthes lucida","ILL",0,0,0
+"346",203405,"Spiranthes lucida","KAN",0,0,0
+"347",203406,"Spiranthes lucida","MSO",0,0,0
+"348",203407,"Spiranthes lucida","NEB",0,0,0
+"349",203408,"Spiranthes lucida","WIS",0,0,0
+"350",203409,"Spiranthes lucida","CNT",0,0,0
+"351",203410,"Spiranthes lucida","INI",0,0,0
+"352",203411,"Spiranthes lucida","MAI",0,0,0
+"353",203412,"Spiranthes lucida","MAS",0,0,0
+"354",203413,"Spiranthes lucida","MIC",0,0,0
+"355",203414,"Spiranthes lucida","NWH",0,0,0
+"356",203415,"Spiranthes lucida","NWJ",0,0,0
+"357",203416,"Spiranthes lucida","NWY",0,0,0
+"358",203417,"Spiranthes lucida","OHI",0,0,0
+"359",203418,"Spiranthes lucida","PEN",0,0,0
+"360",203419,"Spiranthes lucida","RHO",0,0,0
+"361",203420,"Spiranthes lucida","VER",0,0,0
+"362",203421,"Spiranthes lucida","WVA",0,0,0
+"363",203422,"Spiranthes lucida","ALA",0,0,0
+"364",203423,"Spiranthes lucida","DEL",0,0,0
+"365",203424,"Spiranthes lucida","KTY",0,0,0
+"366",203425,"Spiranthes lucida","TEN",0,0,0
+"367",203426,"Spiranthes lucida","VRG",0,0,0
+"368",203427,"Spiranthes magnicamporum","MAN",0,0,0
+"369",203428,"Spiranthes magnicamporum","ONT",0,0,0
+"370",203429,"Spiranthes magnicamporum","ILL",0,0,0
+"371",203430,"Spiranthes magnicamporum","IOW",0,0,0
+"372",203431,"Spiranthes magnicamporum","KAN",0,0,0
+"373",203432,"Spiranthes magnicamporum","MIN",0,0,0
+"374",203433,"Spiranthes magnicamporum","MSO",0,0,0
+"375",203434,"Spiranthes magnicamporum","NDA",0,0,0
+"376",203435,"Spiranthes magnicamporum","NEB",0,0,0
+"377",203436,"Spiranthes magnicamporum","OKL",0,0,0
+"378",203437,"Spiranthes magnicamporum","SDA",0,0,0
+"379",203438,"Spiranthes magnicamporum","WIS",0,0,0
+"380",203439,"Spiranthes magnicamporum","INI",0,0,0
+"381",203440,"Spiranthes magnicamporum","MIC",0,0,0
+"382",203441,"Spiranthes magnicamporum","NWY",0,0,0
+"383",203442,"Spiranthes magnicamporum","OHI",0,0,0
+"384",203443,"Spiranthes magnicamporum","PEN",0,0,0
+"385",203444,"Spiranthes magnicamporum","NWM",0,0,0
+"386",203445,"Spiranthes magnicamporum","TEX",0,0,0
+"387",203446,"Spiranthes magnicamporum","ALA",0,0,0
+"388",203447,"Spiranthes magnicamporum","ARK",0,0,0
+"389",203448,"Spiranthes magnicamporum","KTY",0,0,0
+"390",203449,"Spiranthes magnicamporum","LOU",0,0,0
+"391",203450,"Spiranthes magnicamporum","MSI",0,0,0
+"392",203451,"Spiranthes magnicamporum","TEN",0,0,0
+"393",203452,"Spiranthes magnicamporum","VRG",0,0,0
+"394",203453,"Spiranthes nebulorum","MXC",0,0,0
+"395",203454,"Spiranthes nebulorum","MXE",0,0,0
+"396",203455,"Spiranthes nebulorum","MXG",0,0,0
+"397",203456,"Spiranthes nebulorum","MXS",0,0,0
+"398",203457,"Spiranthes nebulorum","MXT",0,0,0
+"399",203458,"Spiranthes nebulorum","GUA",0,0,0
+"400",203459,"Spiranthes ochroleuca","NBR",0,0,0
+"401",203460,"Spiranthes ochroleuca","NSC",0,0,0
+"402",203461,"Spiranthes ochroleuca","ONT",0,0,0
+"403",203462,"Spiranthes ochroleuca","PEI",0,0,0
+"404",203463,"Spiranthes ochroleuca","CNT",0,0,0
+"405",203464,"Spiranthes ochroleuca","INI",0,0,0
+"406",203465,"Spiranthes ochroleuca","MAI",0,0,0
+"407",203466,"Spiranthes ochroleuca","MAS",0,0,0
+"408",203467,"Spiranthes ochroleuca","MIC",0,0,0
+"409",203468,"Spiranthes ochroleuca","NWH",0,0,0
+"410",203469,"Spiranthes ochroleuca","NWJ",0,0,0
+"411",203470,"Spiranthes ochroleuca","NWY",0,0,0
+"412",203471,"Spiranthes ochroleuca","OHI",0,0,0
+"413",203472,"Spiranthes ochroleuca","PEN",0,0,0
+"414",203473,"Spiranthes ochroleuca","RHO",0,0,0
+"415",203474,"Spiranthes ochroleuca","VER",0,0,0
+"416",203475,"Spiranthes ochroleuca","WVA",0,0,0
+"417",203476,"Spiranthes ochroleuca","KTY",0,0,0
+"418",203477,"Spiranthes ochroleuca","MRY",0,0,0
+"419",203478,"Spiranthes ochroleuca","NCA",0,0,0
+"420",203479,"Spiranthes ochroleuca","SCA",0,0,0
+"421",203480,"Spiranthes ochroleuca","TEN",0,0,0
+"422",203481,"Spiranthes ochroleuca","VRG",0,0,0
+"423",203482,"Spiranthes odorata","OKL",0,0,0
+"424",203483,"Spiranthes odorata","TEX",0,0,0
+"425",203484,"Spiranthes odorata","ALA",0,0,0
+"426",203485,"Spiranthes odorata","ARK",0,0,0
+"427",203486,"Spiranthes odorata","FLA",0,0,0
+"428",203487,"Spiranthes odorata","GEO",0,0,0
+"429",203488,"Spiranthes odorata","KTY",0,0,0
+"430",203489,"Spiranthes odorata","LOU",0,0,0
+"431",203490,"Spiranthes odorata","MRY",0,0,0
+"432",203491,"Spiranthes odorata","MSI",0,0,0
+"433",203492,"Spiranthes odorata","NCA",0,0,0
+"434",203493,"Spiranthes odorata","SCA",0,0,0
+"435",203494,"Spiranthes odorata","TEN",0,0,0
+"436",203495,"Spiranthes odorata","VRG",0,0,0
+"437",203496,"Spiranthes ovalis","ONT",0,0,0
+"438",203497,"Spiranthes ovalis","ILL",0,0,0
+"439",203498,"Spiranthes ovalis","IOW",0,0,0
+"440",203499,"Spiranthes ovalis","KAN",0,0,0
+"441",203500,"Spiranthes ovalis","MSO",0,0,0
+"442",203501,"Spiranthes ovalis","OKL",0,0,0
+"443",203502,"Spiranthes ovalis","WIS",0,0,0
+"444",203503,"Spiranthes ovalis","INI",0,0,0
+"445",203504,"Spiranthes ovalis","MIC",0,0,0
+"446",203505,"Spiranthes ovalis","NWY",0,0,0
+"447",203506,"Spiranthes ovalis","OHI",0,0,0
+"448",203507,"Spiranthes ovalis","PEN",0,0,0
+"449",203508,"Spiranthes ovalis","WVA",0,0,0
+"450",203509,"Spiranthes ovalis","TEX",0,0,0
+"451",203510,"Spiranthes ovalis","ALA",0,0,0
+"452",203511,"Spiranthes ovalis","ARK",0,0,0
+"453",203512,"Spiranthes ovalis","FLA",0,0,0
+"454",203513,"Spiranthes ovalis","GEO",0,0,0
+"455",203514,"Spiranthes ovalis","KTY",0,0,0
+"456",203515,"Spiranthes ovalis","LOU",0,0,0
+"457",203516,"Spiranthes ovalis","MRY",0,0,0
+"458",203517,"Spiranthes ovalis","MSI",0,0,0
+"459",203518,"Spiranthes ovalis","NCA",0,0,0
+"460",203519,"Spiranthes ovalis","SCA",0,0,0
+"461",203520,"Spiranthes ovalis","TEN",0,0,0
+"462",203521,"Spiranthes ovalis","VRG",0,0,0
+"463",203522,"Spiranthes ovalis var. erostellata","ONT",0,0,0
+"464",203523,"Spiranthes ovalis var. erostellata","ILL",0,0,0
+"465",203524,"Spiranthes ovalis var. erostellata","IOW",0,0,0
+"466",203525,"Spiranthes ovalis var. erostellata","KAN",0,0,0
+"467",203526,"Spiranthes ovalis var. erostellata","MSO",0,0,0
+"468",203527,"Spiranthes ovalis var. erostellata","OKL",0,0,0
+"469",203528,"Spiranthes ovalis var. erostellata","WIS",0,0,0
+"470",203529,"Spiranthes ovalis var. erostellata","INI",0,0,0
+"471",203530,"Spiranthes ovalis var. erostellata","MIC",0,0,0
+"472",203531,"Spiranthes ovalis var. erostellata","NWY",0,0,0
+"473",203532,"Spiranthes ovalis var. erostellata","OHI",0,0,0
+"474",203533,"Spiranthes ovalis var. erostellata","PEN",0,0,0
+"475",203534,"Spiranthes ovalis var. erostellata","WVA",0,0,0
+"476",203535,"Spiranthes ovalis var. erostellata","TEX",0,0,0
+"477",203536,"Spiranthes ovalis var. erostellata","ALA",0,0,0
+"478",203537,"Spiranthes ovalis var. erostellata","ARK",0,0,0
+"479",203538,"Spiranthes ovalis var. erostellata","FLA",0,0,0
+"480",203539,"Spiranthes ovalis var. erostellata","GEO",0,0,0
+"481",203540,"Spiranthes ovalis var. erostellata","KTY",0,0,0
+"482",203541,"Spiranthes ovalis var. erostellata","LOU",0,0,0
+"483",203542,"Spiranthes ovalis var. erostellata","MRY",0,0,0
+"484",203543,"Spiranthes ovalis var. erostellata","MSI",0,0,0
+"485",203544,"Spiranthes ovalis var. erostellata","NCA",0,0,0
+"486",203545,"Spiranthes ovalis var. erostellata","SCA",0,0,0
+"487",203546,"Spiranthes ovalis var. erostellata","TEN",0,0,0
+"488",203547,"Spiranthes ovalis var. erostellata","VRG",0,0,0
+"489",203548,"Spiranthes ovalis var. ovalis","TEX",0,0,0
+"490",203549,"Spiranthes ovalis var. ovalis","ALA",0,0,0
+"491",203550,"Spiranthes ovalis var. ovalis","ARK",0,0,0
+"492",203551,"Spiranthes ovalis var. ovalis","FLA",0,0,0
+"493",203552,"Spiranthes ovalis var. ovalis","GEO",0,0,0
+"494",203553,"Spiranthes ovalis var. ovalis","LOU",0,0,0
+"495",203554,"Spiranthes ovalis var. ovalis","MSI",0,0,0
+"496",203555,"Spiranthes porrifolia","IDA",0,0,0
+"497",203556,"Spiranthes porrifolia","ORE",0,0,0
+"498",203557,"Spiranthes porrifolia","WAS",0,0,0
+"499",203558,"Spiranthes porrifolia","CAL",0,0,0
+"500",203559,"Spiranthes porrifolia","NEV",0,0,0
+"501",203560,"Spiranthes praecox","MSO",0,0,0
+"502",203561,"Spiranthes praecox","OKL",0,0,0
+"503",203562,"Spiranthes praecox","NWJ",0,0,0
+"504",203563,"Spiranthes praecox","TEX",0,0,0
+"505",203564,"Spiranthes praecox","ALA",0,0,0
+"506",203565,"Spiranthes praecox","ARK",0,0,0
+"507",203566,"Spiranthes praecox","DEL",0,0,0
+"508",203567,"Spiranthes praecox","FLA",0,0,0
+"509",203568,"Spiranthes praecox","GEO",0,0,0
+"510",203569,"Spiranthes praecox","LOU",0,0,0
+"511",203570,"Spiranthes praecox","MRY",0,0,0
+"512",203571,"Spiranthes praecox","MSI",0,0,0
+"513",203572,"Spiranthes praecox","NCA",0,0,0
+"514",203573,"Spiranthes praecox","SCA",0,0,0
+"515",203574,"Spiranthes praecox","VRG",0,0,0
+"516",203575,"Spiranthes pusilla","SUM",0,0,0
+"517",203576,"Spiranthes romanzoffiana","GRB",0,0,0
+"518",203577,"Spiranthes romanzoffiana","IRE",0,0,0
+"519",203578,"Spiranthes romanzoffiana","ALU",0,0,0
+"520",203579,"Spiranthes romanzoffiana","ASK",0,0,0
+"521",203580,"Spiranthes romanzoffiana","NUN",0,0,0
+"522",203581,"Spiranthes romanzoffiana","NWT",0,0,0
+"523",203582,"Spiranthes romanzoffiana","YUK",0,0,0
+"524",203583,"Spiranthes romanzoffiana","ABT",0,0,0
+"525",203584,"Spiranthes romanzoffiana","BRC",0,0,0
+"526",203585,"Spiranthes romanzoffiana","MAN",0,0,0
+"527",203586,"Spiranthes romanzoffiana","SAS",0,0,0
+"528",203587,"Spiranthes romanzoffiana","LAB",0,0,0
+"529",203588,"Spiranthes romanzoffiana","NBR",0,0,0
+"530",203589,"Spiranthes romanzoffiana","NFL",0,0,0
+"531",203590,"Spiranthes romanzoffiana","NSC",0,0,0
+"532",203591,"Spiranthes romanzoffiana","ONT",0,0,0
+"533",203592,"Spiranthes romanzoffiana","PEI",0,0,0
+"534",203593,"Spiranthes romanzoffiana","QUE",0,0,0
+"535",203594,"Spiranthes romanzoffiana","COL",0,0,0
+"536",203595,"Spiranthes romanzoffiana","IDA",0,0,0
+"537",203596,"Spiranthes romanzoffiana","MNT",0,0,0
+"538",203597,"Spiranthes romanzoffiana","ORE",0,0,0
+"539",203598,"Spiranthes romanzoffiana","WAS",0,0,0
+"540",203599,"Spiranthes romanzoffiana","WYO",0,0,0
+"541",203600,"Spiranthes romanzoffiana","ILL",0,0,0
+"542",203601,"Spiranthes romanzoffiana","IOW",0,0,0
+"543",203602,"Spiranthes romanzoffiana","MIN",0,0,0
+"544",203603,"Spiranthes romanzoffiana","NDA",0,0,0
+"545",203604,"Spiranthes romanzoffiana","NEB",0,0,0
+"546",203605,"Spiranthes romanzoffiana","SDA",0,0,0
+"547",203606,"Spiranthes romanzoffiana","WIS",0,0,0
+"548",203607,"Spiranthes romanzoffiana","CNT",0,0,0
+"549",203608,"Spiranthes romanzoffiana","INI",0,0,0
+"550",203609,"Spiranthes romanzoffiana","MAI",0,0,0
+"551",203610,"Spiranthes romanzoffiana","MAS",0,0,0
+"552",203611,"Spiranthes romanzoffiana","MIC",0,0,0
+"553",203612,"Spiranthes romanzoffiana","NWH",0,0,0
+"554",203613,"Spiranthes romanzoffiana","NWY",0,0,0
+"555",203614,"Spiranthes romanzoffiana","OHI",0,0,0
+"556",203615,"Spiranthes romanzoffiana","PEN",0,0,0
+"557",203616,"Spiranthes romanzoffiana","VER",0,0,0
+"558",203617,"Spiranthes romanzoffiana","ARI",0,0,0
+"559",203618,"Spiranthes romanzoffiana","CAL",0,0,0
+"560",203619,"Spiranthes romanzoffiana","NEV",0,0,0
+"561",203620,"Spiranthes romanzoffiana","UTA",0,0,0
+"562",203621,"Spiranthes romanzoffiana","NWM",0,0,0
+"563",203622,"Spiranthes × simpsonii","NBR",0,0,0
+"564",203623,"Spiranthes × simpsonii","ONT",0,0,0
+"565",203624,"Spiranthes × simpsonii","MIN",0,0,0
+"566",203625,"Spiranthes × simpsonii","WIS",0,0,0
+"567",203626,"Spiranthes sinensis","CHC",0,0,0
+"568",203627,"Spiranthes sinensis","CHH",0,0,0
+"569",203628,"Spiranthes sinensis","CHS",0,0,0
+"570",203629,"Spiranthes sinensis","JAP",0,0,0
+"571",203630,"Spiranthes sinensis","NNS",0,0,0
+"572",203631,"Spiranthes sinensis","TAI",0,0,0
+"573",203632,"Spiranthes sinensis","ASS",0,0,0
+"574",203633,"Spiranthes sinensis","BAN",0,0,0
+"575",203634,"Spiranthes sinensis","LAO",0,0,0
+"576",203635,"Spiranthes sinensis","MYA",0,0,0
+"577",203636,"Spiranthes sinensis","VIE",0,0,0
+"578",203637,"Spiranthes sinensis","PHI",0,0,0
+"579",203638,"Spiranthes sinensis","BIS",0,0,0
+"580",203639,"Spiranthes sinensis","NWG",0,0,0
+"581",203640,"Spiranthes sinensis","WAU",0,0,0
+"582",203641,"Spiranthes sinensis","NWC",0,0,0
+"583",203642,"Spiranthes spiralis","DEN",0,0,0
+"584",203643,"Spiranthes spiralis","GRB",0,0,0
+"585",203644,"Spiranthes spiralis","IRE",0,0,0
+"586",203645,"Spiranthes spiralis","AUT",0,0,0
+"587",203646,"Spiranthes spiralis","BGM",0,0,0
+"588",203647,"Spiranthes spiralis","CZE",0,0,0
+"589",203648,"Spiranthes spiralis","GER",0,0,0
+"590",203649,"Spiranthes spiralis","HUN",0,0,0
+"591",203650,"Spiranthes spiralis","NET",0,0,0
+"592",203651,"Spiranthes spiralis","POL",0,0,0
+"593",203652,"Spiranthes spiralis","SWI",0,0,0
+"594",203653,"Spiranthes spiralis","BAL",0,0,0
+"595",203654,"Spiranthes spiralis","COR",0,0,0
+"596",203655,"Spiranthes spiralis","FRA",0,0,0
+"597",203656,"Spiranthes spiralis","POR",0,0,0
+"598",203657,"Spiranthes spiralis","SAR",0,0,0
+"599",203658,"Spiranthes spiralis","SPA",0,0,0
+"600",203659,"Spiranthes spiralis","ALB",0,0,0
+"601",203660,"Spiranthes spiralis","BUL",0,0,0
+"602",203661,"Spiranthes spiralis","GRC",0,0,0
+"603",203662,"Spiranthes spiralis","ITA",0,0,0
+"604",203663,"Spiranthes spiralis","KRI",0,0,0
+"605",203664,"Spiranthes spiralis","ROM",0,0,0
+"606",203665,"Spiranthes spiralis","SIC",0,0,0
+"607",203666,"Spiranthes spiralis","TUE",0,0,0
+"608",203667,"Spiranthes spiralis","YUG",0,0,0
+"609",203668,"Spiranthes spiralis","UKR",0,0,0
+"610",203669,"Spiranthes spiralis","ALG",0,0,0
+"611",203670,"Spiranthes spiralis","MOR",0,0,0
+"612",203671,"Spiranthes spiralis","TUN",0,0,0
+"613",203672,"Spiranthes spiralis","NCS",0,0,0
+"614",203673,"Spiranthes spiralis","TCS",0,0,0
+"615",203674,"Spiranthes spiralis","CYP",0,0,0
+"616",203675,"Spiranthes spiralis","EAI",0,0,0
+"617",203676,"Spiranthes spiralis","IRN",0,0,0
+"618",203677,"Spiranthes spiralis","LBS",0,0,0
+"619",203678,"Spiranthes spiralis","TUR",0,0,0
+"620",203679,"Spiranthes spiralis","NEP",0,0,0
+"621",203680,"Spiranthes spiralis","WHM",0,0,0
+"622",203681,"Spiranthes suishaensis","TAI",0,0,0
+"623",203682,"Spiranthes torta","FLA",0,0,0
+"624",203683,"Spiranthes torta","MXG",0,0,0
+"625",203684,"Spiranthes torta","MXT",0,0,0
+"626",203685,"Spiranthes torta","BLZ",0,0,0
+"627",203686,"Spiranthes torta","COS",0,0,0
+"628",203687,"Spiranthes torta","GUA",0,0,0
+"629",203688,"Spiranthes torta","HON",0,0,0
+"630",203689,"Spiranthes torta","NIC",0,0,0
+"631",203690,"Spiranthes torta","BAH",0,0,0
+"632",203691,"Spiranthes torta","BER",0,0,0
+"633",203692,"Spiranthes torta","CUB",0,0,0
+"634",203693,"Spiranthes torta","DOM",0,0,0
+"635",203694,"Spiranthes torta","HAI",0,0,0
+"636",203695,"Spiranthes torta","JAM",0,0,0
+"637",203696,"Spiranthes torta","LEE",0,0,0
+"638",203697,"Spiranthes torta","PUE",0,0,0
+"639",203698,"Spiranthes torta","TRT",0,0,0
+"640",203699,"Spiranthes torta","WIN",0,0,0
+"641",203700,"Spiranthes torta","FRG",0,0,0
+"642",203701,"Spiranthes triloba","FLA",0,0,0
+"643",203702,"Spiranthes tuberosa","ILL",0,0,0
+"644",203703,"Spiranthes tuberosa","KAN",0,0,0
+"645",203704,"Spiranthes tuberosa","MSO",0,0,0
+"646",203705,"Spiranthes tuberosa","OKL",0,0,0
+"647",203706,"Spiranthes tuberosa","CNT",0,0,0
+"648",203707,"Spiranthes tuberosa","INI",0,0,0
+"649",203708,"Spiranthes tuberosa","MAS",0,0,0
+"650",203709,"Spiranthes tuberosa","MIC",0,0,0
+"651",203710,"Spiranthes tuberosa","NWJ",0,0,0
+"652",203711,"Spiranthes tuberosa","NWY",0,0,0
+"653",203712,"Spiranthes tuberosa","OHI",0,0,0
+"654",203713,"Spiranthes tuberosa","PEN",0,0,0
+"655",203714,"Spiranthes tuberosa","RHO",0,0,0
+"656",203715,"Spiranthes tuberosa","WVA",0,0,0
+"657",203716,"Spiranthes tuberosa","TEX",0,0,0
+"658",203717,"Spiranthes tuberosa","ALA",0,0,0
+"659",203718,"Spiranthes tuberosa","ARK",0,0,0
+"660",203719,"Spiranthes tuberosa","DEL",0,0,0
+"661",203720,"Spiranthes tuberosa","FLA",0,0,0
+"662",203721,"Spiranthes tuberosa","GEO",0,0,0
+"663",203722,"Spiranthes tuberosa","KTY",0,0,0
+"664",203723,"Spiranthes tuberosa","LOU",0,0,0
+"665",203724,"Spiranthes tuberosa","MRY",0,0,0
+"666",203725,"Spiranthes tuberosa","MSI",0,0,0
+"667",203726,"Spiranthes tuberosa","NCA",0,0,0
+"668",203727,"Spiranthes tuberosa","SCA",0,0,0
+"669",203728,"Spiranthes tuberosa","TEN",0,0,0
+"670",203729,"Spiranthes tuberosa","VRG",0,0,0
+"671",203730,"Spiranthes tuberosa","WDC",0,0,0
+"672",203731,"Spiranthes vernalis","QUE",0,0,0
+"673",203732,"Spiranthes vernalis","ILL",0,0,0
+"674",203733,"Spiranthes vernalis","IOW",0,0,0
+"675",203734,"Spiranthes vernalis","KAN",0,0,0
+"676",203735,"Spiranthes vernalis","MSO",0,0,0
+"677",203736,"Spiranthes vernalis","NEB",0,0,0
+"678",203737,"Spiranthes vernalis","OKL",0,0,0
+"679",203738,"Spiranthes vernalis","CNT",0,0,0
+"680",203739,"Spiranthes vernalis","INI",0,0,0
+"681",203740,"Spiranthes vernalis","MAS",0,0,0
+"682",203741,"Spiranthes vernalis","NWH",0,0,0
+"683",203742,"Spiranthes vernalis","NWJ",0,0,0
+"684",203743,"Spiranthes vernalis","NWY",0,0,0
+"685",203744,"Spiranthes vernalis","OHI",0,0,0
+"686",203745,"Spiranthes vernalis","PEN",0,0,0
+"687",203746,"Spiranthes vernalis","RHO",0,0,0
+"688",203747,"Spiranthes vernalis","WVA",0,0,0
+"689",203748,"Spiranthes vernalis","TEX",0,0,0
+"690",203749,"Spiranthes vernalis","ALA",0,0,0
+"691",203750,"Spiranthes vernalis","ARK",0,0,0
+"692",203751,"Spiranthes vernalis","DEL",0,0,0
+"693",203752,"Spiranthes vernalis","FLA",0,0,0
+"694",203753,"Spiranthes vernalis","GEO",0,0,0
+"695",203754,"Spiranthes vernalis","KTY",0,0,0
+"696",203755,"Spiranthes vernalis","LOU",0,0,0
+"697",203756,"Spiranthes vernalis","MRY",0,0,0
+"698",203757,"Spiranthes vernalis","MSI",0,0,0
+"699",203758,"Spiranthes vernalis","NCA",0,0,0
+"700",203759,"Spiranthes vernalis","SCA",0,0,0
+"701",203760,"Spiranthes vernalis","TEN",0,0,0
+"702",203761,"Spiranthes vernalis","VRG",0,0,0
+"703",203762,"Spiranthes vernalis","WDC",0,0,0
+"704",203763,"Spiranthes vernalis","MXE",0,0,0
+"705",203764,"Spiranthes vernalis","MXT",0,0,0
+"706",203765,"Spiranthes vernalis","GUA",0,0,0
+"707",203766,"Spiranthes vernalis","BAH",0,0,0
+"708",203767,"Spiranthes × zahlbruckneri","AUT",0,0,0
+"709",312861,"Spiranthes eatonii","TEX",0,0,0
+"710",312862,"Spiranthes eatonii","ALA",0,0,0
+"711",312863,"Spiranthes eatonii","FLA",0,0,0
+"712",312864,"Spiranthes eatonii","GEO",0,0,0
+"713",312865,"Spiranthes eatonii","LOU",0,0,0
+"714",312866,"Spiranthes eatonii","MSI",0,0,0
+"715",312867,"Spiranthes eatonii","NCA",0,0,0
+"716",312868,"Spiranthes eatonii","SCA",0,0,0
+"717",312869,"Spiranthes eatonii","VRG",0,0,0
+"718",388027,"Spiranthes × eamesii","CNT",0,0,0
+"719",388028,"Spiranthes sylvatica","FLA",0,0,0
+"720",409498,"Spiranthes sunii","CHN",0,0,0
+"721",515733,"Spiranthes × stellata","CAL",0,0,0
+"722",549383,"Spiranthes × heteroaustralis","FLA",0,0,0
+"723",581929,"Spiranthes arcisepala","NSC",0,0,0
+"724",581930,"Spiranthes arcisepala","ONT",0,0,0
+"725",581931,"Spiranthes arcisepala","QUE",0,0,0
+"726",581932,"Spiranthes arcisepala","CNT",0,0,0
+"727",581933,"Spiranthes arcisepala","INI",0,0,0
+"728",581934,"Spiranthes arcisepala","MAI",0,0,0
+"729",581935,"Spiranthes arcisepala","MAS",0,0,0
+"730",581936,"Spiranthes arcisepala","MIC",0,0,0
+"731",581937,"Spiranthes arcisepala","NWH",0,0,0
+"732",581938,"Spiranthes arcisepala","NWJ",0,0,0
+"733",581939,"Spiranthes arcisepala","NWY",0,0,0
+"734",581940,"Spiranthes arcisepala","OHI",0,0,0
+"735",581941,"Spiranthes arcisepala","PEN",0,0,0
+"736",581942,"Spiranthes arcisepala","VER",0,0,0
+"737",581943,"Spiranthes arcisepala","WVA",0,0,0
+"738",581944,"Spiranthes arcisepala","VRG",0,0,0
+"739",581947,"Spiranthes niklasii","OKL",0,0,0
+"740",581948,"Spiranthes niklasii","ARK",0,0,0
+"741",581949,"Spiranthes incurva","NBR",0,0,0
+"742",581950,"Spiranthes incurva","ONT",0,0,0
+"743",581951,"Spiranthes incurva","QUE",0,0,0
+"744",581952,"Spiranthes incurva","ILL",0,0,0
+"745",581953,"Spiranthes incurva","IOW",0,0,0
+"746",581954,"Spiranthes incurva","KAN",0,0,0
+"747",581955,"Spiranthes incurva","MIN",0,0,0
+"748",581956,"Spiranthes incurva","MSO",0,0,0
+"749",581957,"Spiranthes incurva","NEB",0,0,0
+"750",581958,"Spiranthes incurva","SDA",0,0,0
+"751",581959,"Spiranthes incurva","WIS",0,0,0
+"752",581960,"Spiranthes incurva","INI",0,0,0
+"753",581961,"Spiranthes incurva","MIC",0,0,0
+"754",581962,"Spiranthes incurva","NWH",0,0,0
+"755",581963,"Spiranthes incurva","OHI",0,0,0
+"756",581964,"Spiranthes incurva","PEN",0,0,0
+"757",581965,"Spiranthes incurva","VER",0,0,0
+"758",581967,"Spiranthes × kapnosperia","NCA",0,0,0
+"759",581968,"Spiranthes × kapnosperia","SCA",0,0,0
+"760",581995,"Spiranthes igniorchis","FLA",0,0,0
+"761",586970,"Spiranthes maokensis","NWG",0,0,0
+"762",587116,"Spiranthes × sierrae","CAL",0,0,0
+"763",587117,"Spiranthes perexilis","CAL",0,0,0
+"764",596575,"Spiranthes bightensis","NWJ",0,0,0
+"765",596576,"Spiranthes bightensis","NWY",0,0,0
+"766",596577,"Spiranthes bightensis","DEL",0,0,0
+"767",596578,"Spiranthes bightensis","MRY",0,0,0
+"768",596579,"Spiranthes bightensis","VRG",0,0,0
